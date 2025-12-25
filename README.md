@@ -45,7 +45,7 @@ sudo ./GPUDiag.py
 ```
 
 ## Output Example
-<img width="566" height="833" alt="截屏2025-12-25 11 50 43" src="https://github.com/user-attachments/assets/5b7854f8-1d7b-46e1-90f0-08e751312098" />
+<img width="504" height="832" alt="截屏2025-12-25 11 50 43" src="https://github.com/user-attachments/assets/1f586397-dfd6-467f-b096-c6bc8047e205" />
 <img width="504" height="743" alt="截屏2025-12-25 11 51 10" src="https://github.com/user-attachments/assets/a9c6f624-748e-4711-b9b8-fe8d5d955c08" />
 
 
