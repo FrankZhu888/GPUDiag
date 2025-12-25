@@ -41,7 +41,7 @@ chmod +x GPUDiag.py
 ## Usage
 Run the tool using sudo. The tool outputs a JSON report followed by a human-readable summary.
 ```
-sudo ./gpudiag.py
+sudo ./GPUDiag.py
 ```
 
 ## Output Example
