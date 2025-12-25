@@ -63,3 +63,9 @@ sudo ./gpudiag.py
 | **Process** | **Zombie Processes** | All GPU-consuming PIDs exist in `/proc` | **FAIL**: Process holding VRAM found in `nvidia-smi` but does not exist in OS. |
 | **Logs** | **Xid Errors** | No recent "NVRM: Xid" in `dmesg` | **FAIL**: Critical hardware error patterns (Xid) found in kernel logs. |
 | **Network** | **RDMA Status** | InfiniBand ports state == "PORT_ACTIVE" | **FAIL**: RDMA ports found in "DOWN" state. |
+
+## Support Contact
+
+For issues or questions, contact:
+
+Frank Zhu [flankeroot@gmail.com](mailto:flankeroot@gmail.com)  
